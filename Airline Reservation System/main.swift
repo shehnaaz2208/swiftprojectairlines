@@ -1,0 +1,12 @@
+//
+//  main.swift
+//  Airline Reservation System
+//
+//  Created by MacStudent on 2018-07-21.
+//  Copyright © 2018 MacStudent. All rights reserved.
+//
+
+import Foundation
+
+print("Hello, World!")
+
